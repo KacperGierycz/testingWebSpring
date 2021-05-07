@@ -29,8 +29,9 @@ public class TestingWebApplicationTests {
 		
 	}
 	
-	/*
-	 * @Test public void contextLoads() { }
-	 */
+	
+	  @Test 
+	  public void contextLoads() { }
+	 
 
 }
